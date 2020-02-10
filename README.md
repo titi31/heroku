@@ -14,7 +14,7 @@ cv: <a href="http://timocv.surge.sh">http://timocv.surge.sh<a/> ou <a href="http
   
   les exos wireframes:
   <ul>
-  <li><a href="http://airvion.surge.sh">http://airvion.surge.sh"</a>  </li>
+  <li><a href="http://airvion.surge.sh">http://airvion.surge.sh</a>  </li>
   <li><a href="http://al214.surge.sh">http://al214.surge.sh</a></li>
   <li><a href="http://univers-timothe.surge.sh">http://univers-timothe.surge.sh </a> </li>
   <li> <a href="http://univers.surge.sh">http://univers.surge.sh</a></li>  
