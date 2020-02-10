@@ -8,7 +8,7 @@ link task : <a href="https://tasktimo.herokuapp.com">https://tasktimo.herokuapp.
 link task front : <a href="http://tasknames.s3-website.eu-west-3.amazonaws.com">http://tasknames.s3-website.eu-west-3.amazonaws.com</a>
 
 ## site surge sh
-cv: <a href="http://timocv.surge.sh">http://timocv.surge.sh<a/> ou <a href="http://timothe-cv.surge.sh/cv.html">http://timothe-cv.surge.sh/cv.html</a>
+cv: <a href="http://timothe-cv.surge.sh/cv.html">http://timothe-cv.surge.sh/cv.html</a>
   
   eval site simplon : <a href="http://timosimplon.surge.sh">http://timosimplon.surge.sh</a>
   
